@@ -1,2 +1,2 @@
 
-sdu华协讨论班题目以及latex源码
+sdu华协讨论班题目latex源码
